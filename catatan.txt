@@ -1,0 +1,5 @@
+Membuat table job
+$ php artisan queue:table
+
+Menjalankan queue job
+$ php artisan queue:work
